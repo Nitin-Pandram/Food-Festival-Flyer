@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+height: 100%;
+width: 100%;
+}
+
+.main{
+height: 100%;
+width: 100%;
+/* background-color: blanchedalmond; */
+
+
+}
+
+.backgraound{
+    height: 100%;
+    width: 30%;
+    margin-left: 420px;
+    background-image: url(burger.jpg);
+}
+
+.food p{
+    padding-top: 10px;
+color: white;
+text-align: center;
+font-family: Arial, Helvetica, ;
+
+}
+.food h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 68px;
+    /* font-family: "Holtwood One SC", serif; */
+    font-family: "Arbutus", serif;
+}
+.join{
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    font-family: "Metal Mania", system-ui;
+}
+.image{
+    margin-top: 30px;
+display: flex;
+gap: 5px;
+
+
+}
